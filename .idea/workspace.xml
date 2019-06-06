@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbd77095-90ac-48cb-9a2f-b2375c29eff7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/isabel/warmup/LastNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isabel/warmup/NString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isabel/warmup/OneToThreeE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isabel/warmup/UpperLastThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,107 +23,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/isabel/warmup/LastAround.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isabel/warmup/IxStart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isabel/warmup/OzStart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isabel/warmup/MaxInt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isabel/warmup/ClosestTen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Math.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1343">
-              <caret line="106" column="19" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isabel/warmup/Range30To50.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="59" selection-start-line="7" selection-start-column="7" selection-end-line="8" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isabel/warmup/MaxFrom10To20.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isabel/warmup/BeginHi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#90#91#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30226">
+            <state relative-caret-position="-493">
               <caret line="1866" column="12" selection-start-line="1866" selection-start-column="12" selection-end-line="1866" selection-end-column="12" />
               <folding>
                 <element signature="e#70515#70516#0" expanded="true" />
                 <element signature="e#70564#70565#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/isabel/warmup/NString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -169,6 +90,10 @@
         <option value="$PROJECT_DIR$/src/isabel/warmup/BeginHi.java" />
         <option value="$PROJECT_DIR$/src/isabel/warmup/MaxInt.java" />
         <option value="$PROJECT_DIR$/src/isabel/warmup/LastAround.java" />
+        <option value="$PROJECT_DIR$/src/isabel/warmup/OneToThreeE.java" />
+        <option value="$PROJECT_DIR$/src/isabel/warmup/LastNumber.java" />
+        <option value="$PROJECT_DIR$/src/isabel/warmup/UpperLastThree.java" />
+        <option value="$PROJECT_DIR$/src/isabel/warmup/NString.java" />
       </list>
     </option>
   </component>
@@ -198,6 +123,12 @@
               <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="warmup" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -248,7 +179,7 @@
       <workItem from="1559225285463" duration="6350000" />
       <workItem from="1559655199487" duration="8000" />
       <workItem from="1559729573417" duration="10391000" />
-      <workItem from="1559810501888" duration="2628000" />
+      <workItem from="1559810501888" duration="5198000" />
     </task>
     <task id="LOCAL-00001" summary="second commit for WarmUp exercises.">
       <created>1559749037655</created>
@@ -261,12 +192,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32921000" />
+    <option name="totallyTimeSpent" value="35491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5405117" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38326225" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,7 +215,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.20560747" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49959514" visible="true" weight="0.28764278" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49959514" visible="true" weight="0.28764278" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50040483" side_tool="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32917964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -530,13 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/isabel/warmup/MaxInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/isabel/warmup/ClosestTen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -561,6 +486,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/isabel/warmup/OneToThreeE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isabel/warmup/LastNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isabel/warmup/MaxInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isabel/warmup/UpperLastThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/isabel/warmup/MaxFrom10To20.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -570,7 +523,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/isabel/warmup/BeginHi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#90#91#0" expanded="true" />
@@ -581,12 +534,19 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30226">
+        <state relative-caret-position="-493">
           <caret line="1866" column="12" selection-start-line="1866" selection-start-column="12" selection-end-line="1866" selection-end-column="12" />
           <folding>
             <element signature="e#70515#70516#0" expanded="true" />
             <element signature="e#70564#70565#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isabel/warmup/NString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
